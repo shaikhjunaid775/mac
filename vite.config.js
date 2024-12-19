@@ -8,5 +8,5 @@ export default defineConfig({
   server: {
     historyApiFallback: true, // This will ensure all routes go to index.html
   },
-  base: '/',
+  base: '/mac',
 })
