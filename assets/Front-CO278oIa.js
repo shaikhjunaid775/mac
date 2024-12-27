@@ -1,1 +1,0 @@
-import{j as t}from"./index-CltMMqXi.js";function r(){return t.jsx("div",{children:t.jsx("iframe",{src:"/frontasset/index-1.html",title:"HTML Page",style:{width:"100%",height:"100vh",border:"none"}})})}export{r as default};
