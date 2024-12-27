@@ -1,0 +1,1 @@
+function e(){return React.createElement("div",null,React.createElement("iframe",{src:"/frontasset/index-1.html",title:"HTML Page",style:{width:"100%",height:"100vh",border:"none"}}))}export{e as default};
