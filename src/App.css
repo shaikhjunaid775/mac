@@ -1,0 +1,41 @@
+#root {
+    width: 100%;
+    max-width: 480px;
+    height: 100vh; /* Sets height to 100% of the viewport height */
+    margin: 0 auto !important; /* Centers it horizontally */
+    
+  }
+  
+  body{
+    width: 100%;
+    margin: 0 auto !important;
+    
+      margin: 0;
+      padding: 0;
+      background-color: #F7F8FF;
+      /* display: -webkit-box; */
+  }
+  
+  .banner img{
+    width: 100%;
+    height: 10rem;
+    }
+  
+    .slick-slider{
+      overflow: hidden;
+    }
+  
+  .tab-container img{
+    width: 100%;
+  }
+  
+  .memberslider{
+    display: flex !important;
+  }
+  
+  #bottom-navigation{
+    margin: 0 auto !important;
+    max-width: 480px;
+  }
+  
+  
