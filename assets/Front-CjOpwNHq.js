@@ -1,0 +1,1 @@
+import{R as e}from"./index-B2QIqD2s.js";function r(){return e.createElement("div",null,e.createElement("iframe",{src:"/frontasset/index-1.html",title:"HTML Page",style:{width:"100%",height:"100vh",border:"none"}}))}export{r as default};
