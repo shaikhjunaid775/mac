@@ -6,7 +6,6 @@ import "./App.css";
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 const Dashboard = React.lazy(() => import("./component/User/Dashboard"));
-const Dashboard2 = React.lazy(() => import("./component/User/Dashboard2"));
 const Signup = React.lazy(() => import("./component/Auth/Signup"));
 const Signin = React.lazy(() => import("./component/Auth/Signin"));
 const Front = React.lazy(() => import("./Front"));
@@ -26,7 +25,6 @@ function App() {
             
             <Route exact index  path="/" element={<Front />} />
             <Route exact path="/user/dashboard" element={<Dashboard />} />
-            <Route exact path="/user/dashboard2" element={<Dashboard2 />} />
             <Route exact path="/user/signup" element={<Signup />} />
             <Route exact path="/user/signin" element={<Signin />} />
             <Route exact path="/user/staking" element={<Stacking />} />
