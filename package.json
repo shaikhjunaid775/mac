@@ -2,6 +2,7 @@
   "name": "mac",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://aishwaryaparab.github.io/mac/",
   "type": "module",
   "scripts": {
     "dev": "vite",
